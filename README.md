@@ -7,6 +7,8 @@ A bomberman clone written in Squeak Smalltalk.
 ScuGame open.
 ```
 
+![Screenshot](https://raw.github.com/matthias-springer/space-cleanup/master/screenshot.jpg)
+
 Libraries
 ---------
 
