@@ -17,4 +17,4 @@ We used Marcel Taeumel's [Animiations library](https://www.hpi.uni-potsdam.de/hi
 Authors
 -------
 
-@domoritz, @mswart, @kaifabian and @matthias-springer
+[@domoritz](//github.com/domoritz), [@mswart](//github.com/mswart), [@kaifabian](//github.com/kaifabian) and [@matthias-springer](//github.com/matthias-springer)
