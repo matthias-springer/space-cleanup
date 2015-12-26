@@ -1,0 +1,20 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildImageMorph:in:at:" : "Malte Swart 1/20/2012 13:06:42.164",
+		"buildScoreCalculationString" : "msw 2/9/2012 20:49:49.144",
+		"buildStringMorph:at:with:" : "dominik 2/5/2012 19:11:40.766",
+		"buildSubMorphs" : "dominik 2/5/2012 19:01:35.44",
+		"dataToShow" : "msw 2/5/2012 00:57:05.164",
+		"gameTime" : "dominik 2/5/2012 18:35:57.702",
+		"initialize" : "msw 2/5/2012 01:02:00.102",
+		"notifyAbout:from:to:with:" : "msw 2/9/2012 20:49:19.04",
+		"refreshStrings" : "msw 2/9/2012 20:48:32.328",
+		"score" : "msw 2/9/2012 20:46:05.587",
+		"scorePoints" : "msw 2/9/2012 20:47:07.702",
+		"scorePoints:" : "msw 2/9/2012 20:46:49.179",
+		"step" : "dominik 2/5/2012 18:11:04.945",
+		"stepTime" : "dominik 2/5/2012 18:10:35.218",
+		"strings" : "Malte Swart 1/12/2012 11:39:15.242",
+		"strings:" : "Malte Swart 1/12/2012 11:38:14.385" } }

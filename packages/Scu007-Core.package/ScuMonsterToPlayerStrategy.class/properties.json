@@ -1,0 +1,17 @@
+{
+	"category" : "Scu007-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/10/2012 18:10",
+	"instvars" : [
+		"shortestPath",
+		"toPlayerProbability",
+		"queue",
+		"visitedTiles" ],
+	"name" : "ScuMonsterToPlayerStrategy",
+	"pools" : [
+		 ],
+	"super" : "ScuMonsterStrategy",
+	"type" : "normal" }

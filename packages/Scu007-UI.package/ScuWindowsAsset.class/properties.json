@@ -1,0 +1,14 @@
+{
+	"category" : "Scu007-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/10/2012 14:55:28.196",
+	"instvars" : [
+		"game" ],
+	"name" : "ScuWindowsAsset",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

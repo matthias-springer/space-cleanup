@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"newWithGame:" : "Matthias Springer 2/6/2012 18:08:52.221" },
+	"instance" : {
+		"canIEnterWithPermissions:default:" : "Matthias Springer 1/31/2012 22:28:04.639",
+		"checkIn:" : "dominik 1/21/2012 11:17:49.662",
+		"checkIn:withPermissions:default:" : "Matthias Springer 1/31/2012 13:55:50.994",
+		"checkIn:withPositionChange:" : "Matthias Springer 1/31/2012 13:56:02.497",
+		"checkInWithoutPositionChange:" : "Matthias Springer 1/31/2012 13:56:20.867",
+		"checkOut:" : "Matthias Springer 2/9/2012 15:13:45.92",
+		"checkOutType:" : "dominik 1/19/2012 09:26:08.384",
+		"drawAt:withExtent:" : "dominik 12/22/2011 16:07:02.608",
+		"game" : "Matthias Springer 1/31/2012 22:27:58.296",
+		"game:" : "Matthias Springer 1/7/2012 15:30:19.432",
+		"initializeNeighborConnections" : "Matthias Springer 1/31/2012 13:56:58.139",
+		"items" : "Matthias Springer 1/31/2012 22:27:55.903",
+		"items:" : "Matthias Springer 1/31/2012 13:57:14.933",
+		"neighborAt:" : "Matthias Springer 1/31/2012 22:28:00.238",
+		"neighbors" : "Matthias Springer 1/31/2012 22:28:16.311",
+		"neighbors:" : "Matthias Springer 1/31/2012 13:57:40.517",
+		"searchFor:" : "Matthias Springer 1/31/2012 22:28:06.943",
+		"searchFor:do:" : "Matthias Springer 1/31/2012 13:57:59.558",
+		"surroundedAccessibleFields" : "Matthias Springer 2/10/2012 15:18" } }

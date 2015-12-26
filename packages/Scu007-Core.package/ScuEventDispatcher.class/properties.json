@@ -1,0 +1,15 @@
+{
+	"category" : "Scu007-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/10/2012 14:31:31.226",
+	"instvars" : [
+		"listeners",
+		"allListeners" ],
+	"name" : "ScuEventDispatcher",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

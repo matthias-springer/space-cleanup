@@ -1,0 +1,3 @@
+player
+playerMovementSpeed
+	^ 200

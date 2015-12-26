@@ -1,0 +1,3 @@
+permits
+enterPermissions
+	^ {#wall}

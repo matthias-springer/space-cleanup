@@ -1,0 +1,3 @@
+accessing
+tileUnder
+	^ self owner

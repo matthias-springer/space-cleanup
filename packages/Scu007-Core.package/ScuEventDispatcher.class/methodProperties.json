@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"allListeners" : "kf 2/4/2012 19:55:08.759",
+		"allListeners:" : "Matthias Springer 2/10/2012 15:41",
+		"allRecipientsSatisfy:from:to:with:" : "Matthias Springer 2/10/2012 19:22",
+		"listeners" : "Matthias Springer 1/31/2012 22:26:19.988",
+		"listeners:" : "Matthias Springer 1/31/2012 13:25:44.464",
+		"listenersFor:" : "Matthias Springer 2/9/2012 14:27:35.176",
+		"listenersRegisteredFor:" : "Matthias Springer 2/4/2012 20:59:04.537",
+		"register:for:" : "Matthias Springer 2/9/2012 15:28:36.968",
+		"send:from:to:with:" : "kf 2/4/2012 19:59:07.672",
+		"unregister:" : "kf 2/4/2012 19:56:30.965",
+		"unregister:from:" : "Matthias Springer 1/31/2012 22:26:29.852" } }

@@ -1,0 +1,14 @@
+{
+	"category" : "Scu007-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/10/2012 19:28",
+	"instvars" : [
+		 ],
+	"name" : "ScuCheatWindow",
+	"pools" : [
+		 ],
+	"super" : "ScuWindowsAsset",
+	"type" : "normal" }

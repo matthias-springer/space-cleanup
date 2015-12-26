@@ -1,0 +1,14 @@
+{
+	"category" : "Scu007-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "dominik 2/4/2012 16:03:14.617",
+	"instvars" : [
+		 ],
+	"name" : "ScuSlime",
+	"pools" : [
+		 ],
+	"super" : "ScuDestructibleItem",
+	"type" : "normal" }

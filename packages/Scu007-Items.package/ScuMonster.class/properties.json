@@ -1,0 +1,14 @@
+{
+	"category" : "Scu007-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/4/2012 22:27:50.053",
+	"instvars" : [
+		"strategy" ],
+	"name" : "ScuMonster",
+	"pools" : [
+		 ],
+	"super" : "ScuMovingItem",
+	"type" : "normal" }

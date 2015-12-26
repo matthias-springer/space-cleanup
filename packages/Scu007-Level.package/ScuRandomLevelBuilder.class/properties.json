@@ -1,0 +1,14 @@
+{
+	"category" : "Scu007-Level",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/9/2012 22:52:20.846",
+	"instvars" : [
+		 ],
+	"name" : "ScuRandomLevelBuilder",
+	"pools" : [
+		 ],
+	"super" : "ScuLevelBuilder",
+	"type" : "normal" }

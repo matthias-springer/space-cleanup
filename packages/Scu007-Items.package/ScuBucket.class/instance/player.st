@@ -1,0 +1,3 @@
+accessing
+player
+	^ self parentItem

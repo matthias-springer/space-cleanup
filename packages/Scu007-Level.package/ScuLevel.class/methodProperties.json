@@ -1,0 +1,17 @@
+{
+	"class" : {
+		"newIn:" : "msw 2/9/2012 19:20:56.108" },
+	"instance" : {
+		"builder" : "msw 2/9/2012 20:23:35.634",
+		"builder:" : "msw 2/9/2012 20:23:35.643",
+		"game" : "msw 2/9/2012 19:24:17.377",
+		"game:" : "msw 2/9/2012 19:24:17.389",
+		"lastStepAt" : "msw 2/9/2012 19:20:01.684",
+		"lastStepAt:" : "msw 2/9/2012 19:19:55.682",
+		"stepAt:" : "msw 2/9/2012 19:19:14.297",
+		"stepTime" : "Matthias Springer 2/9/2012 22:35:45.438",
+		"tiles" : "Matthias Springer 1/31/2012 22:26:41.292",
+		"tiles:" : "Matthias Springer 1/31/2012 13:34:47.152",
+		"time" : "msw 2/9/2012 19:24:28.034",
+		"time:" : "msw 2/9/2012 19:16:50.885",
+		"wantsSteps" : "msw 2/9/2012 19:15:56.378" } }

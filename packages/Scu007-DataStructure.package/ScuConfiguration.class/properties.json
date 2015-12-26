@@ -1,0 +1,25 @@
+{
+	"category" : "Scu007-DataStructure",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/10/2012 14:46:08.238",
+	"instvars" : [
+		"animationEnabled",
+		"borderProbability",
+		"builder",
+		"cheatsEnabled",
+		"difficultyLevel",
+		"diagonalDirections",
+		"gameSize",
+		"pickUpItemProbability",
+		"randomSlimeProbability",
+		"toPlayerStrategyProbability",
+		"numberOfMonsters",
+		"tileSize" ],
+	"name" : "ScuConfiguration",
+	"pools" : [
+		 ],
+	"super" : "ScuPreferences",
+	"type" : "normal" }

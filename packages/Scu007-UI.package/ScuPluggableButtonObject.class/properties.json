@@ -1,0 +1,15 @@
+{
+	"category" : "Scu007-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "msw 2/10/2012 11:48:49.468",
+	"instvars" : [
+		"actionBlock",
+		"stateBlock" ],
+	"name" : "ScuPluggableButtonObject",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

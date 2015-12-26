@@ -1,0 +1,18 @@
+{
+	"category" : "Scu007-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/9/2012 22:47:46.198",
+	"instvars" : [
+		"direction",
+		"bucket",
+		"damage",
+		"distance",
+		"propagated" ],
+	"name" : "ScuWater",
+	"pools" : [
+		 ],
+	"super" : "ScuItem",
+	"type" : "normal" }

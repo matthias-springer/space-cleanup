@@ -1,0 +1,16 @@
+{
+	"category" : "Scu007-Resources",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/10/2012 14:54:15.216",
+	"instvars" : [
+		"cache",
+		"images",
+		"imageSize" ],
+	"name" : "ScuResourceManager",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

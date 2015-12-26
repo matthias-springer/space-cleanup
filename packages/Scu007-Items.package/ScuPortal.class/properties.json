@@ -1,0 +1,15 @@
+{
+	"category" : "Scu007-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/9/2012 22:45:19.914",
+	"instvars" : [
+		"direction",
+		"connectedPortal" ],
+	"name" : "ScuPortal",
+	"pools" : [
+		 ],
+	"super" : "ScuItem",
+	"type" : "normal" }

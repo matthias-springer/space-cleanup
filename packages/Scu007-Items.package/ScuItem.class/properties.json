@@ -1,0 +1,15 @@
+{
+	"category" : "Scu007-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/4/2012 22:23:31.989",
+	"instvars" : [
+		"game",
+		"variation" ],
+	"name" : "ScuItem",
+	"pools" : [
+		 ],
+	"super" : "ImageMorph",
+	"type" : "normal" }

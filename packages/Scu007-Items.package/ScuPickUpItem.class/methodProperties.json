@@ -1,0 +1,20 @@
+{
+	"class" : {
+		"buildCakeIn:" : "msw 2/9/2012 20:22:52.837",
+		"buildDecreaseBucketTimerIn:" : "Matthias Springer 1/10/2012 11:09:39.945",
+		"buildExtendDistanceIn:" : "Matthias Springer 1/8/2012 13:52:36.068",
+		"buildExtraLifeIn:" : "dominik 2/4/2012 13:44:12.833",
+		"buildIn:as:on:do:" : "Matthias Springer 2/6/2012 17:52:41.03",
+		"buildIncreaseBucketsIn:" : "Matthias Springer 2/4/2012 22:42:34.554",
+		"buildIncreaseDamageIn:" : "Matthias Springer 1/8/2012 13:33:11.591",
+		"buildPortalIn:" : "Matthias Springer 2/4/2012 22:40:39.199",
+		"buildRandomIn:" : "dominik 2/5/2012 18:26:10.48" },
+	"instance" : {
+		"at:put:" : "Matthias Springer 2/6/2012 17:51:03.978",
+		"checkedIn:" : "Matthias Springer 2/10/2012 19:26",
+		"itemSymbol" : "Matthias Springer 1/31/2012 22:20:21.688",
+		"notifyAbout:from:to:with:" : "Matthias Springer 2/10/2012 19:26",
+		"react:" : "kf 2/4/2012 18:22:08.137",
+		"reactions" : "Matthias Springer 1/31/2012 22:20:23.775",
+		"reactions:" : "Matthias Springer 1/31/2012 21:49:32.963",
+		"zIndex" : "Matthias Springer 1/31/2012 22:20:26.031" } }

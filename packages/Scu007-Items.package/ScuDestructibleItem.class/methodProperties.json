@@ -1,0 +1,12 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"checkedIn:" : "Matthias Springer 1/31/2012 21:23:55.569",
+		"checkedOut:" : "Matthias Springer 1/31/2012 21:24:14.513",
+		"deceaseBy:" : "kf 2/4/2012 21:19:13.19",
+		"deceased" : "Matthias Springer 2/9/2012 16:04:36.146",
+		"health" : "Matthias Springer 2/9/2012 15:30:46.642",
+		"health:" : "Matthias Springer 2/9/2012 16:05:19.158",
+		"notifyAbout:from:to:with:" : "Matthias Springer 2/10/2012 19:28",
+		"takeDamage:from:" : "kf 2/4/2012 21:20:00.022" } }

@@ -1,0 +1,17 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"bfsAddToQueue:from:" : "Matthias Springer 2/10/2012 18:03",
+		"bfsResultTo:from:" : "Matthias Springer 2/10/2012 18:03",
+		"bfsToPlayer" : "Matthias Springer 2/10/2012 18:02",
+		"directionToPlayer" : "Matthias Springer 2/10/2012 18:13",
+		"move" : "Matthias Springer 2/10/2012 18:11",
+		"queue" : "Matthias Springer 2/10/2012 18:12",
+		"queue:" : "Matthias Springer 2/10/2012 17:03",
+		"shortestPath" : "Matthias Springer 2/10/2012 17:44",
+		"shortestPath:" : "Matthias Springer 2/10/2012 16:27",
+		"toPlayerProbability" : "Matthias Springer 2/3/2012 19:36:26.108",
+		"toPlayerProbability:" : "Matthias Springer 1/31/2012 13:54:54.272",
+		"visitedTiles" : "Matthias Springer 2/3/2012 18:11:20.666",
+		"visitedTiles:" : "Matthias Springer 2/3/2012 18:11:11.79" } }

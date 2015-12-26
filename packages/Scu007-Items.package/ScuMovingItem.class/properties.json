@@ -1,0 +1,17 @@
+{
+	"category" : "Scu007-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/4/2012 22:26:49.075",
+	"instvars" : [
+		"animationTime",
+		"direction",
+		"enterPermissions",
+		"positionAnimation" ],
+	"name" : "ScuMovingItem",
+	"pools" : [
+		 ],
+	"super" : "ScuDestructibleItem",
+	"type" : "normal" }

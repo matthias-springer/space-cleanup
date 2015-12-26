@@ -1,0 +1,15 @@
+{
+	"category" : "Scu007-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "msw 2/10/2012 11:59:50.49",
+	"instvars" : [
+		"strings",
+		"scorePoints" ],
+	"name" : "ScuGameInformation",
+	"pools" : [
+		 ],
+	"super" : "ScuWindowsAsset",
+	"type" : "normal" }

@@ -1,0 +1,15 @@
+{
+	"category" : "Scu007-DataStructure",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/10/2012 14:37:23.394",
+	"instvars" : [
+		"keyMapping",
+		"strings" ],
+	"name" : "ScuPreferences",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

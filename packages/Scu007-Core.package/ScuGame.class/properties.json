@@ -1,0 +1,25 @@
+{
+	"category" : "Scu007-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/4/2012 23:57:15.227",
+	"instvars" : [
+		"state",
+		"level",
+		"configuration",
+		"mainPlayer",
+		"monsters",
+		"eventDispatcher",
+		"preferences",
+		"actions",
+		"random",
+		"resources",
+		"stats",
+		"cheats" ],
+	"name" : "ScuGame",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

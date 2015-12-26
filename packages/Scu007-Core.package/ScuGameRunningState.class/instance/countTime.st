@@ -1,0 +1,3 @@
+options
+countTime 
+	^ true

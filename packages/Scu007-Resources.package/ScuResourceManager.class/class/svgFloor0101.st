@@ -1,0 +1,181 @@
+svg
+svgFloor0101
+	^ '<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   id="svg2985"
+   version="1.1"
+   inkscape:version="0.48.2 r9819"
+   sodipodi:docname="floor0101.svg">
+  <defs
+     id="defs5554">
+    <linearGradient
+       id="linearGradient11855">
+      <stop
+         style="stop-color:#888a85;stop-opacity:1"
+         offset="0"
+         id="stop11857" />
+      <stop
+         id="stop11863"
+         offset="0.5"
+         style="stop-color:#babdb6;stop-opacity:1" />
+      <stop
+         style="stop-color:#888a85;stop-opacity:1"
+         offset="1"
+         id="stop11859" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient11855"
+       id="linearGradient11861"
+       x1="0"
+       y1="15"
+       x2="32"
+       y2="15"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(0,-32)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.481547"
+     inkscape:cx="18.768166"
+     inkscape:cy="5.72237"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:grid-bbox="true"
+     inkscape:document-units="px"
+     inkscape:window-width="1629"
+     inkscape:window-height="1006"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid2993"
+       empspacing="5"
+       visible="true"
+       enabled="true"
+       snapvisiblegridlinesonly="true" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata2990">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <rect
+       style="fill:url(#linearGradient11861);fill-opacity:1;stroke:none"
+       id="rect6851"
+       width="32"
+       height="32"
+       x="0"
+       y="-32"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       y="-32"
+       x="27"
+       height="32"
+       width="3"
+       id="rect11845"
+       style="fill:#2e3436;fill-opacity:1;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#edd400;fill-opacity:1;stroke:none"
+       id="rect11847"
+       width="3"
+       height="4"
+       x="27"
+       y="-30"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       y="-22"
+       x="27"
+       height="4"
+       width="3"
+       id="rect11849"
+       style="fill:#edd400;fill-opacity:1;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#edd400;fill-opacity:1;stroke:none"
+       id="rect11851"
+       width="3"
+       height="4"
+       x="27"
+       y="-14"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       y="-6"
+       x="27"
+       height="4"
+       width="3"
+       id="rect11853"
+       style="fill:#edd400;fill-opacity:1;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#2e3436;fill-opacity:1;stroke:none"
+       id="rect3003"
+       width="3"
+       height="32"
+       x="2"
+       y="-32"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       y="-30"
+       x="2"
+       height="4"
+       width="3"
+       id="rect3005"
+       style="fill:#edd400;fill-opacity:1;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#edd400;fill-opacity:1;stroke:none"
+       id="rect3007"
+       width="3"
+       height="4"
+       x="2"
+       y="-22"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       y="-14"
+       x="2"
+       height="4"
+       width="3"
+       id="rect3009"
+       style="fill:#edd400;fill-opacity:1;stroke:none"
+       transform="matrix(0,1,-1,0,0,0)" />
+    <rect
+       style="fill:#edd400;fill-opacity:1;stroke:none"
+       id="rect3011"
+       width="3"
+       height="4"
+       x="2"
+       y="-6"
+       transform="matrix(0,1,-1,0,0,0)" />
+  </g>
+</svg>'

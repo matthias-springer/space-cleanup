@@ -1,0 +1,3 @@
+moving
+move
+	self subclassResponsibility.

@@ -1,0 +1,23 @@
+{
+	"class" : {
+		"newFrom:into:reaching:dealing:" : "Matthias Springer 2/6/2012 17:57:45.512",
+		"newOn:from:into:reaching:dealing:" : "Matthias Springer 2/6/2012 17:58:40.315" },
+	"instance" : {
+		"bucket" : "Matthias Springer 1/31/2012 22:21:17.251",
+		"bucket:" : "Matthias Springer 1/31/2012 21:57:08.931",
+		"checkOnto:" : "kf 2/4/2012 18:51:14.406",
+		"damage" : "Matthias Springer 1/31/2012 22:21:24.138",
+		"damage:" : "Matthias Springer 1/31/2012 21:58:20.013",
+		"direction" : "Matthias Springer 1/31/2012 22:21:05.976",
+		"direction:" : "Matthias Springer 1/31/2012 21:58:25.629",
+		"distance" : "Matthias Springer 1/31/2012 22:21:29.475",
+		"distance:" : "Matthias Springer 1/31/2012 21:58:34.398",
+		"draw" : "dominik 2/9/2012 17:01:04.667",
+		"itemSymbol" : "Matthias Springer 1/31/2012 22:21:26.249",
+		"propagate" : "Matthias Springer 1/31/2012 21:59:22.271",
+		"propagateInto:" : "Matthias Springer 2/4/2012 22:03:25.845",
+		"propagated" : "Matthias Springer 1/31/2012 22:21:12.898",
+		"propagated:" : "Matthias Springer 1/31/2012 22:02:04.06",
+		"step" : "Matthias Springer 1/31/2012 22:02:19.3",
+		"stepTime" : "dominik 2/4/2012 20:56:27.849",
+		"zIndex" : "Matthias Springer 1/31/2012 22:21:08.377" } }

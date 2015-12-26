@@ -1,0 +1,19 @@
+{
+	"category" : "Scu007-Items",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/4/2012 22:52:56.023",
+	"instvars" : [
+		"bucketsLeft",
+		"bucketPrototype",
+		"movementTimerCounter",
+		"movementQueue",
+		"movementSpeed",
+		"portalsLeft" ],
+	"name" : "ScuPlayer",
+	"pools" : [
+		 ],
+	"super" : "ScuMovingItem",
+	"type" : "normal" }

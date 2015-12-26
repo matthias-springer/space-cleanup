@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"animationTime" : "Matthias Springer 1/31/2012 22:19:32.15",
+		"checkedIn:" : "Matthias Springer 1/31/2012 21:40:04.738",
+		"checkedOut:" : "msw 1/22/2012 20:47:16.409",
+		"enterPermissions" : "Matthias Springer 1/31/2012 22:19:34.408",
+		"handleGameIsWon" : "Matthias Springer 2/9/2012 15:37:34.664",
+		"initialize" : "kf 2/4/2012 23:11:52.152",
+		"itemSymbol" : "Matthias Springer 1/31/2012 22:19:38.957",
+		"move" : "Matthias Springer 2/4/2012 22:10:05.266",
+		"notifyAbout:from:to:with:" : "Matthias Springer 2/10/2012 19:26",
+		"step" : "Matthias Springer 1/8/2012 19:34:00.954",
+		"stepTime" : "Matthias Springer 1/31/2012 22:19:29.863",
+		"strategy" : "dominik 2/4/2012 21:23:13.026",
+		"strategy:" : "Matthias Springer 1/8/2012 14:09:24.432",
+		"zIndex" : "Matthias Springer 1/31/2012 22:19:36.749" } }

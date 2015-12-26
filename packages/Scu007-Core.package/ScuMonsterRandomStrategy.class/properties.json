@@ -1,0 +1,14 @@
+{
+	"category" : "Scu007-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/5/2012 00:14:06.012",
+	"instvars" : [
+		 ],
+	"name" : "ScuMonsterRandomStrategy",
+	"pools" : [
+		 ],
+	"super" : "ScuMonsterStrategy",
+	"type" : "normal" }

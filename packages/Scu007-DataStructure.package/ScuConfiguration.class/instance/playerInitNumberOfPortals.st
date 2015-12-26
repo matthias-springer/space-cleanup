@@ -1,0 +1,3 @@
+player
+playerInitNumberOfPortals
+	^ 2

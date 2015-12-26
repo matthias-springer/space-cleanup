@@ -1,0 +1,14 @@
+{
+	"category" : "Scu007-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "msw 2/10/2012 12:29:23.835",
+	"instvars" : [
+		 ],
+	"name" : "ScuGameOverState",
+	"pools" : [
+		 ],
+	"super" : "ScuGameState",
+	"type" : "normal" }

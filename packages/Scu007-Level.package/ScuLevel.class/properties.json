@@ -1,0 +1,18 @@
+{
+	"category" : "Scu007-Level",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/4/2012 23:58:27.262",
+	"instvars" : [
+		"tiles",
+		"time",
+		"lastStepAt",
+		"game",
+		"builder" ],
+	"name" : "ScuLevel",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

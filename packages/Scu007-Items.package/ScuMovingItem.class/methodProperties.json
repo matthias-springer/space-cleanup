@@ -1,0 +1,15 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"animateMovementFrom:to:callback:" : "Matthias Springer 1/31/2012 21:38:16.183",
+		"animationTime" : "Matthias Springer 1/31/2012 22:19:22.397",
+		"animationTime:" : "Matthias Springer 1/31/2012 21:38:24.918",
+		"direction:" : "Matthias Springer 1/31/2012 21:38:27.542",
+		"enterPermissions" : "Matthias Springer 2/4/2012 22:12:37.776",
+		"enterPermissions:" : "Matthias Springer 2/4/2012 22:13:02.264",
+		"moveFrom:to:withAnimation:" : "Matthias Springer 2/10/2012 19:26",
+		"moveTo:" : "dominik 2/9/2012 17:01:28.27",
+		"moveTo:withAnimation:" : "Matthias Springer 1/31/2012 22:19:12.615",
+		"positionAnimation" : "msw 2/10/2012 12:50:15.988",
+		"positionAnimation:" : "msw 2/10/2012 12:48:54.099" } }

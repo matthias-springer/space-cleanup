@@ -1,0 +1,9 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"activate" : "msw 2/10/2012 12:19:30.022",
+		"drawControls" : "msw 2/9/2012 16:26:03.884",
+		"drawLevel" : "msw 2/9/2012 16:29:18.668",
+		"drawStats" : "dominik 2/10/2012 15:54:50.194",
+		"shouldDraw" : "msw 2/9/2012 16:15:58.354" } }

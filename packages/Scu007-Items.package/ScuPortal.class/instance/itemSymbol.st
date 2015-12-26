@@ -1,0 +1,3 @@
+permits
+itemSymbol 
+	^ #portal

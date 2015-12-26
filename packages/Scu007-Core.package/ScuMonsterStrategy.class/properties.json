@@ -1,0 +1,16 @@
+{
+	"category" : "Scu007-Core",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/5/2012 00:13:45.546",
+	"instvars" : [
+		"game",
+		"monster",
+		"directions" ],
+	"name" : "ScuMonsterStrategy",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

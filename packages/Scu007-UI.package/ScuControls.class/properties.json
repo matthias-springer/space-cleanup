@@ -1,0 +1,14 @@
+{
+	"category" : "Scu007-UI",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "msw 2/10/2012 11:56:27.23",
+	"instvars" : [
+		 ],
+	"name" : "ScuControls",
+	"pools" : [
+		 ],
+	"super" : "ScuWindowsAsset",
+	"type" : "normal" }

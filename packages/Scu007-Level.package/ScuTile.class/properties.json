@@ -1,0 +1,16 @@
+{
+	"category" : "Scu007-Level",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "Matthias Springer 2/10/2012 14:34:39.246",
+	"instvars" : [
+		"neighbors",
+		"game",
+		"items" ],
+	"name" : "ScuTile",
+	"pools" : [
+		 ],
+	"super" : "Morph",
+	"type" : "normal" }

@@ -1,0 +1,19 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"buildOptionMorph:" : "kf 2/10/2012 17:29:45.495",
+		"buildRowMorph" : "kf 2/10/2012 17:29:45.502",
+		"buildStringMorph:in:" : "kf 2/10/2012 17:29:45.509",
+		"buildSubMorphs" : "Matthias Springer 2/10/2012 19:24",
+		"createButtonNamed:onStateChange:onAction:" : "kf 2/10/2012 17:49:29.966",
+		"defaultFontIn:" : "kf 2/10/2012 17:29:45.52",
+		"drawControls" : "kf 2/10/2012 17:50:04.853",
+		"drawCountControls" : "Matthias Springer 2/10/2012 19:06",
+		"drawDamageControls" : "Matthias Springer 2/10/2012 19:06",
+		"drawDistanceControls" : "Matthias Springer 2/10/2012 19:07",
+		"drawHeadline" : "kf 2/10/2012 17:31:18.541",
+		"drawHealthControls" : "kf 2/10/2012 18:18:37.896",
+		"drawMonsterControls" : "Matthias Springer 2/10/2012 19:07",
+		"drawPortalControls" : "Matthias Springer 2/10/2012 19:07",
+		"showUserInputDialog:default:" : "kf 2/10/2012 17:29:45.572" } }

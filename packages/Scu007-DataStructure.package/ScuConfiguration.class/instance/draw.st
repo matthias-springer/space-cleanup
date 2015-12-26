@@ -1,0 +1,3 @@
+game
+draw
+	^ true

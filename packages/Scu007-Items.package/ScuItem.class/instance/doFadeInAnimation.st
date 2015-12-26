@@ -1,0 +1,3 @@
+render
+doFadeInAnimation
+	self doFadeInAnimationWithDuration: 500

@@ -1,0 +1,27 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"copyBucket" : "Matthias Springer 2/5/2012 12:41:54.077",
+		"damage" : "Matthias Springer 1/31/2012 22:19:05.268",
+		"damage:" : "kf 2/4/2012 18:49:50.071",
+		"distance" : "Matthias Springer 1/31/2012 22:19:09.765",
+		"distance:" : "kf 2/4/2012 19:06:09.926",
+		"enterPermissions" : "Matthias Springer 1/31/2012 22:19:00.359",
+		"isPrototype" : "Matthias Springer 1/31/2012 22:18:51.317",
+		"isPrototype:" : "Matthias Springer 1/8/2012 13:27:38.298",
+		"itemSymbol" : "Matthias Springer 1/31/2012 22:19:07.67",
+		"parentItem" : "Matthias Springer 1/31/2012 22:18:46.677",
+		"parentItem:" : "Matthias Springer 1/31/2012 21:32:50.083",
+		"placeWater" : "Matthias Springer 1/31/2012 21:34:51.536",
+		"placedIn:parentItem:" : "Matthias Springer 2/5/2012 00:31:36.973",
+		"player" : "Matthias Springer 1/31/2012 22:18:56.031",
+		"step" : "Matthias Springer 2/10/2012 11:39:37.299",
+		"stepTime" : "Matthias Springer 1/31/2012 22:18:49.02",
+		"takeDamage:from:" : "Matthias Springer 2/10/2012 11:41:40.286",
+		"timeout" : "Matthias Springer 1/31/2012 22:18:58.316",
+		"timeout:" : "Matthias Springer 1/10/2012 11:19:29.727",
+		"wash" : "Matthias Springer 2/10/2012 11:41:55.04",
+		"washing" : "Matthias Springer 1/31/2012 22:19:03.02",
+		"washing:" : "Matthias Springer 1/31/2012 21:37:52.566",
+		"zIndex" : "Matthias Springer 1/31/2012 22:18:44.42" } }
